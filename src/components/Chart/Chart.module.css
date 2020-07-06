@@ -4,3 +4,9 @@
     width: 85%;
     height: auto;
 }
+
+@media(max-width: 770px) {
+    .container {
+        width: 100%;
+    }
+}
